@@ -1,7 +1,7 @@
 ### Problem Description
 We want to create a service that automatically classifies articles into related groups by detecting patterns inside the dataset.
 
-> Credit: This ML challenge is designed by iSentia. For more details, please check their repository available at [here](https://bitbucket.org/isentia/coding-challenge-ml/src/master/)
+> Credit: This ML challenge is designed by iSentia. For more details, please check their repository available at [here](https://bitbucket.org/isentia/coding-challenge-ml/src/master/).
 
 ### Solutions
 I have built the following solutions for this challenge: <br>
